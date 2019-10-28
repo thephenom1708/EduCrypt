@@ -106,3 +106,6 @@ public class News extends Fragment {
         void onFragmentInteraction(Uri uri);
     }
 }
+getch();
+return 0;
+#End File
